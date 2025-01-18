@@ -2,6 +2,12 @@
 
 Este es un proyecto [Next.js](https://nextjs.org) inicializado con [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+El mismo provee:
+- Manejo de sesiones (simulado).
+- Manejo de carga de imágenes (simulado).
+- Procesamiento de imágenes en el backend (simulado).
+- Páginas de manejo de sesiones.
+- Páginas de creación, modificación y visualización de los elementos cargados.
 ## Inicio Rápido
 
 Para ejecutar el servidor de desarrollo:
